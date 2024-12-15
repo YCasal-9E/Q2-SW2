@@ -1,0 +1,34 @@
+body {
+    background-image: url(https://i.pinimg.com/736x/d3/86/bd/d386bdcd51b2ca5ae6d693e97be378f3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: marcellus;
+    color: #F4F6F3;
+}
+.main-container {
+    background-color: rgba(27, 38, 59, 0.9);
+    padding: 30px;
+    border-radius: 12px;
+}
+img {
+    width: 100%;
+    border-radius: 8px;
+}
+.btn-submit {
+    background-color: #415a77;
+    border: none;
+}
+.btn-submit:hover {
+    background-color: #778da9;
+}
+option{
+    color: grey;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
